@@ -10,7 +10,7 @@ Atualizada automaticamente a partir de fontes confiáveis.
 Use este link direto para adicionar no seu Pi-hole ou AdGuard Home:
 
 ```
-https://raw.githubusercontent.com/Advansoftware/block-bet/main/advans-blocklist.txt
+https://raw.githubusercontent.com/Advansoftware/block-bet/master/advans-blocklist.txt
 ```
 
 ---
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/Advansoftware/block-bet/main/advans-blocklist.
 1. Acesse **Settings → Adlists** no painel do Pi-hole.
 2. Clique em **Add a new adlist** e insira:
    ```
-   https://raw.githubusercontent.com/Advansoftware/block-bet/main/advans-blocklist.txt
+   https://raw.githubusercontent.com/Advansoftware/block-bet/master/advans-blocklist.txt
    ```
 3. Salve e rode no terminal:
    ```bash
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/Advansoftware/block-bet/main/advans-blocklist.
 1. Vá em **Filtros → Regras de filtragem personalizadas**.
 2. Clique em **Adicionar filtro** e insira:
    ```
-   https://raw.githubusercontent.com/Advansoftware/block-bet/main/advans-blocklist.txt
+   https://raw.githubusercontent.com/Advansoftware/block-bet/master/advans-blocklist.txt
    ```
 3. Clique em **Aplicar**.
 
